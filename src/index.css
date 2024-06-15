@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+.app {
+  @apply min-h-screen bg-gray-100;
+}
